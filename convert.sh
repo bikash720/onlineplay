@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="haire-pinki" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/%E0%AC%B9%E0%AC%BE%E0%AC%8F%E0%AC%B0%E0%AD%87+Pinky_heart___+New+Sambalpuri+Music+Video.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="biscuit" # Output Path (Same will be pushed in main also)
+input_url="https://free-4gb-data.vodafone.workers.dev/0adf03425855371172c2c007782d56cc/Biskoth%20(2020)%20Dual%20Audio%20%7BHindi-Tamil%7D%201080p%20HDRip%202.2GB%20ESub%20[AltMovies].mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
