@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="lal-mandara-return" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/Lal+Mandara+Return.mp4" # Input direct file url
+output_path="haire-pinki" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/%E0%AC%B9%E0%AC%BE%E0%AC%8F%E0%AC%B0%E0%AD%87+Pinky_heart___+New+Sambalpuri+Music+Video.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
