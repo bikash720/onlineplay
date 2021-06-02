@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="Lal Mandara Return" # Output Path (Same will be pushed in main also)
+output_path="lal-mandara-return" # Output Path (Same will be pushed in main also)
 input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/Lal+Mandara+Return.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
