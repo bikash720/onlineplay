@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="target" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/TARGET+__+RUKU+SUNA+__+ASHIRBAD+MOHANTY.mp4" # Input direct file url
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/A+MO+DIL!!MANTU+CHURIA+%26+ANAMIKA+ACHARYA!!NEW+ODIA+SONG+2021!!TN+PRODUCTION+(+1080+X+1920+).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
