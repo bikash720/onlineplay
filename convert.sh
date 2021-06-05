@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="nili-nili" # Output Path (Same will be pushed in main also)
-input_url="https://res.cloudinary.com/djtrfsgzg/video/upload/v1592763258/VID-1592762378104_y35akk.mp4" # Input direct file url
+output_path="a-morpriya" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/A+PRIYA+AA+PHIRIA__UMAKANT+BARIK+NEW.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
