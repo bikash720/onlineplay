@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="a-morpriya" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/A+PRIYA+AA+PHIRIA__UMAKANT+BARIK+NEW.mp4" # Input direct file url
+output_path="target" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/TARGET+__+RUKU+SUNA+__+ASHIRBAD+MOHANTY.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
