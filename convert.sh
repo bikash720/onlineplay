@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="god-gift" # Output Path (Same will be pushed in main also)
-input_url="https://res.cloudinary.com/djtrfsgzg/video/upload/v1611398247/GOD_GIFT___Kundal_K_Chhura_Alisha_Mishra___New_sambalpuri_Video_Song___2021_1080_X_1920_w9wmhp.mp4" # Input direct file url
+output_path="nili-nili" # Output Path (Same will be pushed in main also)
+input_url="https://res.cloudinary.com/djtrfsgzg/video/upload/v1592763258/VID-1592762378104_y35akk.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
