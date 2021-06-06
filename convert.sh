@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="break-up" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Break+Up+(Umakant+Barik)+Sambalpuri+Video+2017+(Copyright+Reserved)++720+X+1280.mp4" # Input direct file url
+output_path="chap-karathi" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Chap+Karati+__+%E0%AC%9A%E0%AC%AA%E0%AD%8D+%E0%AC%95%E0%AC%B0%E0%AC%BE%E0%AC%9F%E0%AC%BF+__+Ruku+Suna+__+Saroj+Kumbhar+__+New+Sambalpuri+Video+2020+_+Official+(+1080+X+1920+50fps+).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
