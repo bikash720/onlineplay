@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="baby-jaan" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Baby+Jaan+_+Suresh+Suna+%26+Aseema+Panda+_+new+sambalpuri+Song+2020+_+Studio+Version+_+EverythingforU+(+1080+X+1920+).mp4" # Input direct file url
+output_path="chor-chor" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Chor+Chor+Sambalpuri+Song+Oficial+Full+Video+HD+__+Umakant+Barik+%26+Asima+Panda+__+Riyanshi+Music+(+1080+X+1920+).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
