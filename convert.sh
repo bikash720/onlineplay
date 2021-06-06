@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="baragada-chaulabara" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Baragadar+Chaula+Bara+_+Bargadia+Mithun+da+_+Leema_+Dillip+_Anamika+_Samabalpuri+Song+_Adarsh+Malhar+(+1080+X+1920+).mp4" # Input direct file url
+output_path="bela-re-bela" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Bela+Re+Bela+Return+Full+Studio+Versoin++FTll+Umakant+Barik+%26+Rojalin+sahu+Umakant+Gumsum+Official+(+1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
