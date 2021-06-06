@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="chor-chor" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Chor+Chor+Sambalpuri+Song+Oficial+Full+Video+HD+__+Umakant+Barik+%26+Asima+Panda+__+Riyanshi+Music+(+1080+X+1920+).mp4" # Input direct file url
+output_path="dada" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Dada+_+New+Sambalpuri+Song+_+Full+Video+_+Mantu+Chhuria+_+Rehan+Kamal+_+Pintu+Chhuri+(+1080+X+1920+50fps+).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
