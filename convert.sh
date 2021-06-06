@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="dukhi-kalakar" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/DUKHI+KALAKAR+__+EMOTION+OF+AN+ARTIST__+UMA__SANTANU__+RAMA__+JOGESH+JOJO__NEW+SAMBALPURI+SONG+(+1080+X+1920+).mp4" # Input direct file url
+output_path="gaenti-mor-khopokhopo" # Output Path (Same will be pushed in main also)
+input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/GAENTI+MOR+FULL+ALBUM+VIDEO+__+RUKU+SUNA+__+NEW+SAMBALPURI+VIDEO+__+RUKU+SUNA+OFFICIAL+(+1080+X+1920+60fps+).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
