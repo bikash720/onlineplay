@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="heart-attack" # Output Path (Same will be pushed in main also)
-input_url="https://sabmalpuri.s3.ap-south-1.amazonaws.com/SAMBALPURI+SONG/Heart+attack+_+Sambalpuri+Music+Video+2021+_+Sandeep+%26+Kajal+_+Suresh+Suna+%26+Lipsa+mahapatra+_+E4U+_+(+1080+X+1920+60fps+).mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="stream" # Output Path (Same will be pushed in main also)
+input_url="http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/playlist.m3u8?token=" # Input direct file url
+input_extension="m3u8" # Extension of file url
 
 
 
