@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="stream" # Output Path (Same will be pushed in main also)
-input_url="http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/playlist.m3u8?token=" # Input direct file url
-input_extension="m3u8" # Extension of file url
+output_path="saiko-sambalpuri" # Output Path (Same will be pushed in main also)
+input_url="https://fv2-3.failiem.lv/down.php?i=v2as8dq29" # Input direct file url
+input_extension="mp4" # Extension of file url
 
 
 
