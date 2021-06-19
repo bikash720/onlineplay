@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="iloveyou-sambalpuri" # Output Path (Same will be pushed in main also)
-input_url="https://cache-cdn.speed-booobss.workers.dev/2bed1f116459e39a4b4a1ed8593133a8/I%20LOVE%20YOU%20_%20Rk%20RockStar%20Ruku%20Suna%20_%20Aseema%20Panda%20...%20Sambalpuri%20Romantic%20Song%20_%202021%20_%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="torhandsome-sambalpuri" # Output Path (Same will be pushed in main also)
+input_url="https://terepyarme.lundd-bekarar.workers.dev/02bc414d4d720d2779e9d6b65b58fac8/Tor%20Handsome%20__%20sambalpuri%20%20Raja%20Dhamaka%20__%20Ruku%20S...a%20__%20Abinash%20__%20Puspak%20__%20Rajat%20__%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
