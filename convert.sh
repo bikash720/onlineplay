@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="saiko-sambalpuri" # Output Path (Same will be pushed in main also)
-input_url="https://cloud.vivo-csync.workers.dev/f3af7f8e240b8928adaa8040cef7c762/SAIKO%20__%20J%20PRAKASH%20__%20SWARNAMAYEE%20__%20JOGESH%20JOJO%20__%20NEW%20SAMBALPURI%20MUSIC%20VIDEO%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="oyebaby-sambalpuri" # Output Path (Same will be pushed in main also)
+input_url="https://hidden-cloud.jsggr.workers.dev/f66793239dbe9ca52589b1838d6c4bfc/Oye%20Baby%20_%20Ruku%20Suna%20_%20Archana%20Padhi%20_%20Sambalpuri%20...Sambalpuri%20Blast%20_%20Ashok%20Das%20(%201080%20X%201920%2050fps%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
