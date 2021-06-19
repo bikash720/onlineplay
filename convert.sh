@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="saiko-sambalpuri" # Output Path (Same will be pushed in main also)
-input_url="https://fv2-3.failiem.lv/down.php?i=v2as8dq29" # Input direct file url
+input_url="https://cloud.vivo-csync.workers.dev/f3af7f8e240b8928adaa8040cef7c762/SAIKO%20__%20J%20PRAKASH%20__%20SWARNAMAYEE%20__%20JOGESH%20JOJO%20__%20NEW%20SAMBALPURI%20MUSIC%20VIDEO%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
