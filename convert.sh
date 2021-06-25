@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="odiafilm-ama-bhitare-kichhi-achhi" # Output Path (Same will be pushed in main also)
-input_url="https://free-gift-card.paytm.workers.dev/398097b2cf427da5c1ae4ddd25af2f10/AMA%20BHITARE%20KICHHI%20ACHHI%20Odia%20Superhit%20Full%20Film%20_%20Anubhav,Barsha%20_%20Sidharth%20TV%20(%201080%20X%201920%20).mp4" # Input direct file url
+output_path="bindiare-bindia" # Output Path (Same will be pushed in main also)
+input_url="https://pole-1.airtel-hopes.workers.dev/acc3424c949d56f69d1a5aeebff39b21/Bindia%20Re%20Bindia%20_%20New%20Sambalpuri%20Song%20_%20Umakant%20Barik%20_%20Bhakta%20Prasad%20Barik%20_%20Tarang%20Music%20(%201080%20X%201920%20).mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
