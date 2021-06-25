@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="bullet-gadi" # Output Path (Same will be pushed in main also)
-input_url="https://late-cell-452e.trend-files.workers.dev/e2329f7f72c45827d31e6bc2ffd51826/Mor%20Bullet%20Gadi%20_%20New%20Sambalpuri%20Music%20Video%20_%20Hem...ck%20Model%7D%20_%20Miss%20Mahi%20_%20HP%20MUSIC%20_%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="tip-tip-umakant" # Output Path (Same will be pushed in main also)
+input_url="https://freecloud.redmi-csync.workers.dev/881303a4e234d0ef1f83b190cc743328/Tip%20Tip%20Barsha%20Pani(Singer-Umakant%20Barik%20&amp;%20Ruchism...ru)%20New%20Sambalpuri%20Video%20Song%202021%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
