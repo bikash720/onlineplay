@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="maa-bua-ke-pachreikri-love-jojo-comedy" # Output Path (Same will be pushed in main also)
-input_url="https://shape.jio-volte.workers.dev/fd09fa402f82caa3ff84c91825a762d5/MAA%20BUA%20K%20PACHREI%20KARI%20LOVE%20KARBAR%20KATHA%20__%20JOGESH...%20COMEDY%20_%20JOJO%20J5%20PRODUCTION%20(%201080%20X%201920%2050fps%20)_1920_1080.mp4" # Input direct file url
+output_path="mehesus-umakantbarik" # Output Path (Same will be pushed in main also)
+input_url="https://broad.muhme-lelo.workers.dev/f061b24fb0d747c8b66f3c03c090e607/Mehesus%20Umakant%20Barik%20l%20New%20Sambalpuri%20Unplugged%20Song%20l%20Janak%20Seth%20official%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
