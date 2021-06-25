@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="mehesus-umakantbarik" # Output Path (Same will be pushed in main also)
-input_url="https://broad.muhme-lelo.workers.dev/f061b24fb0d747c8b66f3c03c090e607/Mehesus%20Umakant%20Barik%20l%20New%20Sambalpuri%20Unplugged%20Song%20l%20Janak%20Seth%20official%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="tip-tip-barsha-pani" # Output Path (Same will be pushed in main also)
+input_url="https://late-cell-452e.trend-files.workers.dev/e2329f7f72c45827d31e6bc2ffd51826/Mor%20Bullet%20Gadi%20_%20New%20Sambalpuri%20Music%20Video%20_%20Hem...ck%20Model%7D%20_%20Miss%20Mahi%20_%20HP%20MUSIC%20_%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
