@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="laldupattabali-rukusona" # Output Path (Same will be pushed in main also)
-input_url="https://cloud.vivo-csync.workers.dev/c1f818ce8ab11d96f33c803348b2686e/LAL%20DUPATTA%20BALI%20__%20Ruku%20Suna%20__%20Anamika%20Acharya%20_...i%20Song%20__%20Mediascape%20Entertainment%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="maa-bua-ke-pachreikri-love-jojo-comedy" # Output Path (Same will be pushed in main also)
+input_url="https://shape.jio-volte.workers.dev/fd09fa402f82caa3ff84c91825a762d5/MAA%20BUA%20K%20PACHREI%20KARI%20LOVE%20KARBAR%20KATHA%20__%20JOGESH...%20COMEDY%20_%20JOJO%20J5%20PRODUCTION%20(%201080%20X%201920%2050fps%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
