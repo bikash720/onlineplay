@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="bindiare-bindia" # Output Path (Same will be pushed in main also)
-input_url="https://pole-1.airtel-hopes.workers.dev/acc3424c949d56f69d1a5aeebff39b21/Bindia%20Re%20Bindia%20_%20New%20Sambalpuri%20Song%20_%20Umakant%20Barik%20_%20Bhakta%20Prasad%20Barik%20_%20Tarang%20Music%20(%201080%20X%201920%20).mp4" # Input direct file url
+output_path="laldupattabali-rukusona" # Output Path (Same will be pushed in main also)
+input_url="https://cloud.vivo-csync.workers.dev/c1f818ce8ab11d96f33c803348b2686e/LAL%20DUPATTA%20BALI%20__%20Ruku%20Suna%20__%20Anamika%20Acharya%20_...i%20Song%20__%20Mediascape%20Entertainment%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
