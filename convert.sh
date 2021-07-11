@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="tip-tip-umakant" # Output Path (Same will be pushed in main also)
-input_url="https://freecloud.redmi-csync.workers.dev/881303a4e234d0ef1f83b190cc743328/Tip%20Tip%20Barsha%20Pani(Singer-Umakant%20Barik%20&amp;%20Ruchism...ru)%20New%20Sambalpuri%20Video%20Song%202021%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="gulabi-naina" # Output Path (Same will be pushed in main also)
+input_url="https://dawn-cherry-f57c.ciwon19868.workers.dev/677be7f4134730d9b67dc44c6a5d5261/dexfiles.one/GULABI%20NAINA%20OFFICIAL%20VIDEO%20ft.Amar%20Dash%20!!%20Naina%20...i%20song%20!!%202021!%20Radhe%20gardia%20(%201080%20X%201920%2060fps%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
