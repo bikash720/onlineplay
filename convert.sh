@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="reject-kalina" # Output Path (Same will be pushed in main also)
-input_url="http://stream.sbpmaza.workers.dev/0:/REJECT%20KALI%20NA%20__%20UMAKANT%20BARIK%20&%20RUKU%20SUNA__NAREN...%20VIDEO%20FILMS%20__NEW%20SAMBALPURI%20SONG%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="majnu" # Output Path (Same will be pushed in main also)
+input_url="http://stream.sbpmaza.workers.dev/0:/Majnu%20_%20New%20Sambalpuri%20music%20video%20_%20S.%20Sudarsan%20&...ayee%20_%20Umakant%20Barik%20&%20Lipsa%20_%20EfU%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
