@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="gulabi-naina" # Output Path (Same will be pushed in main also)
-input_url="https://dawn-cherry-f57c.ciwon19868.workers.dev/677be7f4134730d9b67dc44c6a5d5261/dexfiles.one/GULABI%20NAINA%20OFFICIAL%20VIDEO%20ft.Amar%20Dash%20!!%20Naina%20...i%20song%20!!%202021!%20Radhe%20gardia%20(%201080%20X%201920%2060fps%20)_1920_1080.mp4" # Input direct file url
+output_path="reject-kalina" # Output Path (Same will be pushed in main also)
+input_url="http://stream.sbpmaza.workers.dev/0:/REJECT%20KALI%20NA%20__%20UMAKANT%20BARIK%20&%20RUKU%20SUNA__NAREN...%20VIDEO%20FILMS%20__NEW%20SAMBALPURI%20SONG%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
