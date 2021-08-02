@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="majnu" # Output Path (Same will be pushed in main also)
-input_url="http://stream.sbpmaza.workers.dev/0:/Majnu%20_%20New%20Sambalpuri%20music%20video%20_%20S.%20Sudarsan%20&...ayee%20_%20Umakant%20Barik%20&%20Lipsa%20_%20EfU%20(%201080%20X%201920%20)_1920_1080.mp4" # Input direct file url
+output_path="chandka-tukda" # Output Path (Same will be pushed in main also)
+input_url="http://online.sbpmaza.workers.dev/0:/Sambalpuri/CHAND KA TUKDA I FULL HD_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
