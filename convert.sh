@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="chandka-tukda" # Output Path (Same will be pushed in main also)
-input_url="http://online.sbpmaza.workers.dev/0:/Sambalpuri/CHAND KA TUKDA I FULL HD_1920_1080.mp4" # Input direct file url
+input_url="https://online.sbpmaza.workers.dev/0:/Sambalpuri/CHAND%20KA%20TUKDA%20I%20FULL%20HD_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
