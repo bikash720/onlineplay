@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="gahadijiba" # Output Path (Same will be pushed in main also)
-input_url="https://online.sbpmaza.workers.dev/0:/Sambalpuri/GAHADIJIBA,%20New%20Sambalpuri%20Full%20Music%20Video%20__%20AKASH%20PATTNAIK%20AKKI%20(%201440%20X%202560%20)_2560_1440.mp4" # Input direct file url
+output_path="slowmotion-uma" # Output Path (Same will be pushed in main also)
+input_url="https://online.sbpmaza.workers.dev/0:/Sambalpuri/Tote%20Slow%20Motion%20Thi%20Nachami.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
