@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="palatmerijaan-ruku" # Output Path (Same will be pushed in main also)
-input_url="https://online.sbpmaza.workers.dev/0:/Sambalpuri/Palat%20Meri%20Jaan.mp4" # Input direct file url
+output_path="lachkichali" # Output Path (Same will be pushed in main also)
+input_url="https://online.sbpmaza.workers.dev/0:/NEW%20SAMBALPURI%20SONG%20__LACHKI%20CHALI%20FULL_1920_1080.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
