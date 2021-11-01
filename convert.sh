@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="lajkuri-archanapadhi" # Output Path (Same will be pushed in main also)
+output_path="test" # Output Path (Same will be pushed in main also)
 input_url="https://stream.sbpmaza.workers.dev/0:/Sunaguri.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
